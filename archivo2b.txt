@@ -1,4 +1,9 @@
 Comienza pronto dd
 triste
 felipe
+<<<<<<< HEAD
 ssssssa
+=======
+ssssssaaS
+s
+>>>>>>> master
